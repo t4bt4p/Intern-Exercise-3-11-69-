@@ -1,0 +1,15 @@
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\bin\Debug\net10.0\hangman.exe
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\bin\Debug\net10.0\hangman.deps.json
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\bin\Debug\net10.0\hangman.runtimeconfig.json
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\bin\Debug\net10.0\hangman.dll
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\bin\Debug\net10.0\hangman.pdb
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\obj\Debug\net10.0\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\obj\Debug\net10.0\hangman.AssemblyInfoInputs.cache
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\obj\Debug\net10.0\hangman.AssemblyInfo.cs
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\obj\Debug\net10.0\hangman.csproj.CoreCompileInputs.cache
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\obj\Debug\net10.0\hangman.dll
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\obj\Debug\net10.0\refint\hangman.dll
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\obj\Debug\net10.0\hangman.pdb
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\obj\Debug\net10.0\hangman.genruntimeconfig.cache
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\obj\Debug\net10.0\ref\hangman.dll
+C:\Users\tabta\OneDrive\Desktop\ฝึกงาน\3-11-69\hangman\hangman\obj\Debug\net10.0\hangman.csproj.Up2Date
